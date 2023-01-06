@@ -1,8 +1,7 @@
 # **TodoList com Typescript**
-## **Projeto MundoDevOps**
+## **First challenge ignite - Rocketseat **
 
-O projeto tinha como objetivo principal construir uma API que realizesse interação com a [IP_API](https://ip-api.com/docs/api:json) e salvasse os dados 
-em um banco de dados.
+O projeto tinha como objetivo principal construir uma ToDolist para aprimorar os conhecimentos em react
 
 ## **Tecnologias**
 - Typescript
